@@ -1,3 +1,6 @@
+# Preview
+
+<img src="./assets/preview-app" alt="preview image"/>
 # Expo Router Example
 
 Use [`expo-router`](https://expo.github.io/router) to build native navigation using files in the `app/` directory.
